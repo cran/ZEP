@@ -1,0 +1,14 @@
+399f5f33f043c9c5e3e7cba22a1028e6 *DESCRIPTION
+2ff62b35282dd928313f72e3b72939c2 *NAMESPACE
+eb965834640db77825ff78b36362a6c7 *R/ApplyZFunction.R
+3bf064d8841544d3c9843bc4d964b9c7 *R/DpqDistance.R
+a08a9ec9f05eaf687130685387f9f730 *R/FuzzyApproximation.R
+57e028dd4d7824a581b2aaa8799e41f9 *R/PlotZFunction.R
+7fd13017a474b4676466d958871c3ea9 *R/approximationMehodsInside.R
+8306edfe0c0be419d9d71fb55f60fb0c *R/utils.R
+3a1127de7e1c8e378479a9eb4ad66e60 *README.md
+6e2fe73188870600a0db5b74f2534623 *man/ApplyZFunction.Rd
+e0d469f7c0f9d398beea6c5aa1684514 *man/DpqDistance.Rd
+296a0ef8afe20f448211c37d57abd844 *man/FuzzyApproximation.Rd
+48623d4cb3e43ea54e91cdfb14427e2c *man/PlotZFunction.Rd
+e295e37963b8015452014628b00a1566 *man/approximationMehodsInside.Rd
